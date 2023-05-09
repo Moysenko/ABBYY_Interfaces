@@ -23,3 +23,8 @@ yarn-error.log*
 
 .idea
 .env
+
+/bin
+/lib
+pyvenv.cfg
+
